@@ -3,6 +3,9 @@ Moebooru
 An image board.
 * [Source Repository](https://github.com/moebooru/moebooru)
 
+* This is a simple guide to installing Moebooru on Debian 12
+* It's not really secure, but for a VM that's only reachable on the local network it should be enough
+
 Requirements
 ------------
 * Debian 12
